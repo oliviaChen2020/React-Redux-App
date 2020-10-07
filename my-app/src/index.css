@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://cdn.pixabay.com/photo/2016/08/19/19/49/background-1606047_960_720.jpg");
+  
+}
+
+h1{
+  color:#ED553B;
+  font-family: Georgia;
+}
+
+img{
+  border:10px solid white
+  }
+button{
+  color:white;
+  background-color:#20639B;
+  border-color: tomato;
+}
+
+button:hover{
+  color:#20639B;
+  background-color: white;
+  border-color:tomato;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
