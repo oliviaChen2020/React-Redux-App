@@ -5,28 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("https://cdn.pixabay.com/photo/2016/08/19/19/49/background-1606047_960_720.jpg");
-  
 }
 
-h1{
-  color:#ED553B;
+h1 {
+  color: #ed553b;
   font-family: Georgia;
 }
 
-img{
-  border:10px solid white
-  }
-button{
-  color:white;
-  background-color:#20639B;
+img {
+  border: 10px solid white;
+}
+button {
+  color: white;
+  background-color: #20639b;
   border-color: tomato;
 }
 
-button:hover{
-  color:#20639B;
+button:hover {
+  color: #20639b;
   background-color: white;
-  border-color:tomato;
+  border-color: tomato;
 }
 
 code {
