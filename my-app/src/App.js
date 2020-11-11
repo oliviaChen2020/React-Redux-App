@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>React-Redux App: Aren't You Hungry?</h1>
+      <h1>Aren't You Hungry?</h1>
       <Quotes />
     </div>
   );
